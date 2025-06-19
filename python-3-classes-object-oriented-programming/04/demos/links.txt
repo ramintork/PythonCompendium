@@ -1,1 +1,0 @@
-https://docs.sqlalchemy.org/en/14/orm/extensions/hybrid.html
